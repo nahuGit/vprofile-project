@@ -1,5 +1,9 @@
 # Prerequisites
+<<<<<<< HEAD
 ###
+=======
+#####
+>>>>>>> cicd-jenkins
 - JDK 11 
 - Maven 3 
 - MySQL 8
